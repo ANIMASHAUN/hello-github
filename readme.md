@@ -9,3 +9,5 @@ This repository is built step by step in the tutorial.
 Doing an edit in github.
 
 job well done
+
+everything seems to move smoothly.
